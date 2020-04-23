@@ -2,12 +2,12 @@
 <html>
 <head>
     <title>Account Sign Up</title>
-    <link rel="stylesheet" type="text/css" href="main.css"/>
+    <link rel="stylesheet" type="text/css" href="main.css?version=1"/>
 </head>
 
 <body>
     <main>
-    <h1>Account Sign Up</h1>
+    <h1>Registration Form</h1>
     <form action="display_results.php" method="post">
 
     <fieldset> 
